@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.1) 
+project(helloworld C CXX ASM) 
+include_directories() 
+link_directories() 
+add_executable(helloworld)
